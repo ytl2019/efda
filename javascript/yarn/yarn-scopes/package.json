@@ -8,9 +8,9 @@
     "jquery": "3.0.0-alpha1",
     "boom": "",
     "console-io": "2.6.3",
-    "cookie-signature": "1.0.2"
+    "cookie-signature": "1.0.6"
   },
   "devDependencies": {
-      "coffee-script": "~1.6.3"
+    "coffee-script": "~1.6.3"
   }
 }
